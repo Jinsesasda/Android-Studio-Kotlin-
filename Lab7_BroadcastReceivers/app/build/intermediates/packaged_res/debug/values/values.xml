@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#536DFE</color>
+    <color name="background_color">#08237e</color>
+    <color name="black">#FF000000</color>
+    <color name="black_text_54">#8A000000</color>
+    <color name="black_text_87">#DE000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="edit_text">#202020</color>
+    <color name="gold">#FFD700</color>
+    <color name="green">#00FF00</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="md_theme_dark_onPrimary">#226AA2</color>
+    <color name="md_theme_dark_onSecondary">#003060</color>
+    <color name="md_theme_dark_primary">#9BCAFF</color>
+    <color name="md_theme_dark_primaryContainer">#00497E</color>
+    <color name="md_theme_dark_secondary">#A4C8FF</color>
+    <color name="md_theme_dark_secondaryContainer">#004788</color>
+    <color name="md_theme_dark_tertiary">#CF7C77</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_onPrimaryContainer">#001D36</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_primary">#2196F3</color>
+    <color name="md_theme_light_primaryContainer">#1976D2</color>
+    <color name="md_theme_light_secondary">#005FB1</color>
+    <color name="md_theme_light_secondaryContainer">#D3E3FF</color>
+    <color name="md_theme_light_tertiary">#EF5350</color>
+    <color name="primary">#FF5722</color>
+    <color name="primary_dark">#E64A19</color>
+    <color name="primary_disabled">#FFF8AD96</color>
+    <color name="primary_light">#FFCCBC</color>
+    <color name="primary_text">#212121</color>
+    <color name="red">#CC0000</color>
+    <color name="ripple_dark">#40000000</color>
+    <color name="ripple_light">#40FFFFFF</color>
+    <color name="secondary_text">#757575</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="bubble_width">250dp</dimen>
+    <dimen name="content_area_padding">8dp</dimen>
+    <dimen name="list_item_padding">8dp</dimen>
+    <string name="app_name">BroadcastReceiversLab</string>
+    <string name="bubble_desc">Bubble</string>
+    <style name="Theme.App" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorPrimaryVariant">@color/md_theme_light_primaryContainer</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        
+        <item name="colorSecondary">@color/md_theme_light_tertiary</item>
+        <item name="colorSecondaryVariant">@color/md_theme_light_secondaryContainer</item>
+        <item name="colorOnSecondary">@color/md_theme_light_onSecondary</item>
+        <item name="colorAccent">@color/md_theme_light_tertiary</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:selectableItemBackground" ns1:targetApi="l">@drawable/background_selector</item>
+        <item name="rippleColor">@color/ripple_light</item>
+    </style>
+    <style name="Theme.App.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.App.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.App.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

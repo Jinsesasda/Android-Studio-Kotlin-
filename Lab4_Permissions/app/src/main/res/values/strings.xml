@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PermissionsLab</string>
+    <string name="instructions_string">Click on call button to start phone call</string>
+    <string name="need_permission_string">This app requires your permission in order to make this phone call</string>
+</resources>

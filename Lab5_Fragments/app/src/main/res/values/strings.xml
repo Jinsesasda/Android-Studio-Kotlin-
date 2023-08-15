@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentsLab</string>
+    <string name="oncreate_calls_string">onCreate() calls: %d</string>
+    <string name="onstart_calls_string">onStart calls %d:</string>
+    <string name="onresume_calls_string">onResume() calls %d:</string>
+    <string name="onrestart_calls_string">onRestart calls(): %d</string>
+    <string name="go_to_next_activity_string">Button to open SecondActivity</string>
+    <string name="go_back_string">Click back button to return to MainActivity</string>
+</resources>

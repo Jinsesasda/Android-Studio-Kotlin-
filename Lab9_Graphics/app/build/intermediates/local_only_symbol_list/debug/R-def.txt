@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+drawable b64
+drawable shiny_steel_ball
+id frame
+layout activity_bubble
+mipmap icon
+string app_name
+style Theme.AppCompat.Light.NoActionBar.FullScreen

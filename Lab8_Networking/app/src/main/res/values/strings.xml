@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabNetworking</string>
+    <string name="click_send_to_issue_a_network_request">Click on Button to generate QR Code.</string>
+    <string name="get_qr_string">Get QR Code</string>
+    <string name="send_request_error">Send network request failed.</string>
+    <string name="error_format">%1$s\n\n%2$s</string>
+    <string name="get_request_progress">Performing GET request …</string>
+</resources>

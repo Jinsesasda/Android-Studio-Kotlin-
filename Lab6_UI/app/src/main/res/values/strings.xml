@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UILab</string>
+    <string name="first_fragment_label">ColorViewer</string>
+    <string name="current_color_string">#%1$s%2$s%3$s%4$s</string>
+    <string name="alpha_string">Alpha</string>
+    <string name="red_string">Red</string>
+    <string name="green_string">Green</string>
+    <string name="blue_string">Blue</string>
+</resources>

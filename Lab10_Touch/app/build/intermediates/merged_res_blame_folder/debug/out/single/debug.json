@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "course.labs.graphicslab.app-merged_res-23:/mipmap-mdpi_icon.png.flat",
+        "source": "course.labs.graphicslab.app-main-25:/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "course.labs.graphicslab.app-merged_res-23:/drawable-mdpi_shiny_steel_ball.png.flat",
+        "source": "course.labs.graphicslab.app-main-25:/drawable-mdpi/shiny_steel_ball.png"
+    },
+    {
+        "merged": "course.labs.graphicslab.app-merged_res-23:/mipmap-ldpi_icon.png.flat",
+        "source": "course.labs.graphicslab.app-main-25:/mipmap-ldpi/icon.png"
+    },
+    {
+        "merged": "course.labs.graphicslab.app-merged_res-23:/layout_activity_bubble.xml.flat",
+        "source": "course.labs.graphicslab.app-main-25:/layout/activity_bubble.xml"
+    },
+    {
+        "merged": "course.labs.graphicslab.app-merged_res-23:/mipmap-hdpi_icon.png.flat",
+        "source": "course.labs.graphicslab.app-main-25:/mipmap-hdpi/icon.png"
+    }
+]

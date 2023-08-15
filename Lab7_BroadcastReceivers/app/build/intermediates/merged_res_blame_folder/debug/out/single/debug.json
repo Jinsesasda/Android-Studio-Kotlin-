@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "course.labs.broadcastreceiverslab.app-merged_res-29:/drawable_background_selector.xml.flat",
+        "source": "course.labs.broadcastreceiverslab.app-main-31:/drawable/background_selector.xml"
+    },
+    {
+        "merged": "course.labs.broadcastreceiverslab.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "course.labs.broadcastreceiverslab.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.labs.broadcastreceiverslab.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "course.labs.broadcastreceiverslab.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.labs.broadcastreceiverslab.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "course.labs.broadcastreceiverslab.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.labs.broadcastreceiverslab.app-merged_res-29:/drawable-nodpi_b512.png.flat",
+        "source": "course.labs.broadcastreceiverslab.app-main-31:/drawable-nodpi/b512.png"
+    },
+    {
+        "merged": "course.labs.broadcastreceiverslab.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "course.labs.broadcastreceiverslab.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.labs.broadcastreceiverslab.app-merged_res-29:/layout_main_activity.xml.flat",
+        "source": "course.labs.broadcastreceiverslab.app-main-31:/layout/main_activity.xml"
+    }
+]
